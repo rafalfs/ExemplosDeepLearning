@@ -1,1 +1,3 @@
 # ExemplosDeepLearning
+
+O objetivo deste repositório é armazenar para consulta pública alguns exemplos de DeepLearning que tenho feito.
